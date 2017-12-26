@@ -1,6 +1,0 @@
-C:\dev\XamarinTestApp\XamarinTestApp\XamarinTestApp\bin\Debug\XamarinTestApp.dll
-C:\dev\XamarinTestApp\XamarinTestApp\XamarinTestApp\bin\Debug\XamarinTestApp.pdb
-C:\dev\XamarinTestApp\XamarinTestApp\XamarinTestApp\obj\Debug\XamarinTestApp.csprojResolveAssemblyReference.cache
-C:\dev\XamarinTestApp\XamarinTestApp\XamarinTestApp\obj\Debug\XamarinTestApp.csproj.CoreCompileInputs.cache
-C:\dev\XamarinTestApp\XamarinTestApp\XamarinTestApp\obj\Debug\XamarinTestApp.dll
-C:\dev\XamarinTestApp\XamarinTestApp\XamarinTestApp\obj\Debug\XamarinTestApp.pdb
